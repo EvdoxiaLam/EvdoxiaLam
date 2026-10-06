@@ -32,5 +32,5 @@ MSc in AI & Data Science @ AUEB | Python · SQL · NLP · HuggingFace
 
 ## 📫 Let's connect
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-evdoxia--lamprinou-blue)](https://linkedin.com/in/evdoxia-lamprinou)
-[![Kaggle](https://img.shields.io/badge/Kaggle-Profile-20BEFF)]([https://www.kaggle.com](https://www.kaggle.com/evdoxialamprinou))
+[![Kaggle](https://img.shields.io/badge/Kaggle-Profile-20BEFF)](https://www.kaggle.com/evdoxialamprinou)
 📩 labrinoue@gmail.com
