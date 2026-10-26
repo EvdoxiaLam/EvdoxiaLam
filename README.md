@@ -18,6 +18,7 @@ MSc in AI & Data Science @ AUEB | Python · SQL · NLP · HuggingFace
 | Project | Description | Stack |
 |--------|-------------|-------|
 | [Job Posting Fraud Detection](https://github.com/EvdoxiaLam/Job-posting-fraud-detection) | NLP fraud detection with DistilBERT, SHAP, LIME & live Gradio demo | DistilBERT · SHAP · Gradio |
+| [Telco Customer Churn Prediction](https://github.com/EvdoxiaLam/Churn-prediction) | End-to-end churn prediction with XGBoost, Optuna tuning and SHAP explainability | XGBoost · Optuna · SHAP |
 | [Amazon Sentiment Analysis](https://github.com/EvdoxiaLam/amazon-sentiment-bert) | BERT fine-tuning with LoRA for 3-class sentiment classification | BERT · LoRA · Optuna |
 | [House Prices Prediction](https://github.com/EvdoxiaLam/house-prices-regression) | Stacking ensemble of 6 models with SHAP explainability | XGBoost · LightGBM · CatBoost |
 
@@ -26,7 +27,7 @@ MSc in AI & Data Science @ AUEB | Python · SQL · NLP · HuggingFace
 
 ## 🛠️ Tech Stack
 `Python` `SQL` `PyTorch` `HuggingFace` `Scikit-learn` `XGBoost` `LightGBM`
-`SHAP` `Optuna` `Databricks` `Power BI` `PySpark` `Git`
+`SHAP` `Optuna` `Databricks` `Power BI` `PySpark` `Git` `Seaborn` `SciPy`
 
 ---
 
